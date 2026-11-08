@@ -1,0 +1,15 @@
+.env
+.demo_runs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 课件与本地笔记，不进入公开仓库
+*.pdf
+*.ipynb
+*.excalidraw
+*.png
+*.bak
+笔记.md
+搭建类似Hermes Agent的自进化长期记忆.md
